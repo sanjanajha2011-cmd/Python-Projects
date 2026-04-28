@@ -108,6 +108,4 @@ def library():
         else:
             print('Invalid choice')
 
-
-# run program
 library()
